@@ -41,4 +41,4 @@ Machine Learning regression project that predicts insurance claim cost based on 
 
 ## 🌐 Project Link
 
-https://shwetank-health-insurance-cost-project.streamlit.app/
+https://health-insurance-cost-project.streamlit.app/
